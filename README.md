@@ -19,7 +19,7 @@ python2 banner.py
 
 ## Preview >
 
-<p align="center"><img src="./image/preview.jpg">
+<p align="center"><img src="./image/preview.png">
  
 
 ### 𝙏𝙤𝙤𝙡𝙨 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚
